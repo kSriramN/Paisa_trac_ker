@@ -1,0 +1,6 @@
+# .gitignore for Node/PWA projects
+node_modules/
+dist/
+build/
+.env
+*.log
